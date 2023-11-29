@@ -3,12 +3,12 @@ entries:
   base-app-networking-helm-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-11-28T17:12:23.776897-07:00"
+    created: "2023-11-28T19:17:13.969928-07:00"
     description: A Helm chart for cluster level application networking
-    digest: 8ea3b7846dc0b1e59852881c7574dd2eb7ff3ca872561858848b046f4fc38739
+    digest: 5b75f1403f047dcd3e6eda2b9bf51e1778f76f2addbc53a99909b83749825506
     name: base-app-networking-helm-chart
     type: application
     urls:
     - base-app-networking-helm-chart/base-app-networking-helm-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2023-11-28T17:12:23.776633-07:00"
+generated: "2023-11-28T19:17:13.969609-07:00"
